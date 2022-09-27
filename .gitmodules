@@ -1,0 +1,15 @@
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/plugins/start/nerdtree-git-plugin"]
+	path = pack/plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/plugins/tpope/start"]
+	path = pack/plugins/tpope/start
+	url = https://tpope.io/vim/surround.git
+[submodule "pack/plugins/tpope-repeat/start"]
+	path = pack/plugins/tpope-repeat/start
+	url = https://tpope.io/vim/repeat.git
+[submodule "pack/plugins/vim-airline/start"]
+	path = pack/plugins/vim-airline/start
+	url = https://github.com/vim-airline/vim-airline
