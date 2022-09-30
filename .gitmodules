@@ -19,3 +19,9 @@
 [submodule "pack/plugins/start/ale"]
 	path = pack/plugins/start/ale
 	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/plugins/start/vim-visual-multi"]
+	path = pack/plugins/start/vim-visual-multi
+	url = https://github.com/mg979/vim-visual-multi
+[submodule "pack/plugins/start/vim-which-key"]
+	path = pack/plugins/start/vim-which-key
+	url = https://github.com/liuchengxu/vim-which-key.git
